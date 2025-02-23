@@ -41,11 +41,6 @@ install.packages(c("psych", "ggplot2", "ggcorrplot", "dplyr", "ggpubr", "rlist",
 ## Usage
 
 1.	Clone the repository
-
-```bash
-git clone https://github.com/yourusername/video-game-sales-analysis.git
-cd video-game-sales-analysis
-```
 2.	Load the dataset (Video_Games.csv) into R.
 3.	Run the analysis.R script to generate visualizations and statistical insights.
 
